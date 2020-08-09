@@ -1,0 +1,15 @@
+User-agent:*
+Allow:/
+Allow:/work
+Allow:/testmonials
+Allow:/certifications
+Allow:/it-training
+Allow:/resume
+Allow:/contact-me
+Sitemap:https://www.pradeep.vip/
+Sitemap:https://www.pradeep.vip/work
+Sitemap:https://www.pradeep.vip/testmonials
+Sitemap:https://www.pradeep.vip/certifications
+Sitemap:https://www.pradeep.vip/it-training
+Sitemap:https://www.pradeep.vip/resume
+Sitemap:https://www.pradeep.vip/contact-me
